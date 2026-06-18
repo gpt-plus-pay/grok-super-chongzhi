@@ -89,11 +89,14 @@
 
 ![Grok充值输入账号ID](https://pic1.imgdb.cn/item/6a1cfb696aa5b6be4f5f7d81.png)
 
-获取账号 ID 时，建议在浏览器中操作。也可以点击图中的超链接直接获取，前提是已经提前登录好要充值的账号。
+获取账号 ID 时，建议在浏览器中操作，访问地址：`https://grok.com/api/auth/session`。
+也可以点击图中的超链接直接获取，前提是已经提前登录好要充值的账号。
+
+![Grok 获取账号 ID 页面](https://pic1.imgdb.cn/item/6a342b1991b65c4475ae63aa.png)
 
 将获取到的 ID 粘贴到上方充值界面，点击确认账号信息。
 
-![Grok充值确认账号信息](https://pic1.imgdb.cn/item/6a1cfd9b6aa5b6be4f5f7e31.png)
+![Grok 充值最终确认页面](https://pic1.imgdb.cn/item/6a1cfd9b6aa5b6be4f5f7e31.png)
 
 整个过程大概 2-8 分钟即可充值完毕，操作简单，适合没有海外支付条件的国内用户。
 
