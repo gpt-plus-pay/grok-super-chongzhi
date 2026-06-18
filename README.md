@@ -1,5 +1,7 @@
 # Grok 充值教程｜国内开通 Grok Super 与 SuperGrok 代充方法
 
+> 更新时间：2026 年 06 月 19 日，测试可用
+
 > 国内用户如何充值 Grok？本文整理 Grok 充值、Grok 代充、SuperGrok 充值和国内开通 Grok Super 的完整流程，支持微信支付，适合没有海外支付条件的用户。
 
 [![充值入口](https://img.shields.io/badge/Grok-充值入口-1d9bf0?style=for-the-badge)](https://gpt.hicxy.com)
