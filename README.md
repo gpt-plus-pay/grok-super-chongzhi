@@ -164,7 +164,7 @@ Grok 相关套餐名称可能会随官方调整变化。下单前看清楚页面
 ## 相关教程
 
 - [Grok Super 付款失败排查指南](https://github.com/Ai66Man/Grok-pay)
-- [Grok Super 国内开通新手教程](https://github.com/imi0801/grok-gudie)
+- [Grok Super 国内开通新手教程](https://github.com/imi0801/grok-guide)
 - [ChatGPT Plus / Pro 图文充值教程](https://github.com/gpt-plus-pay/chatgpt-chongzhi)
 - [Claude Pro 图文充值教程](https://github.com/gpt-plus-pay/claude-pro-chongzhi)
 
