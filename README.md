@@ -1,8 +1,24 @@
-# Grok 充值教程｜国内开通 Grok Super 与 SuperGrok 代充方法
+# Grok Super 充值图文教程｜国内微信开通 Grok 与 SuperGrok 方法
 
 > 更新时间：2026 年 06 月 19 日，测试可用
 
 > 国内用户如何充值 Grok？本文整理 Grok 充值、Grok 代充、SuperGrok 充值和国内开通 Grok Super 的完整流程，支持微信支付，适合没有海外支付条件的用户。
+
+## 快速结论
+
+- **本文定位：** 图文流程版，重点展示从购买卡密到确认账号信息的完整步骤。
+- **适合用户：** 已经有 Grok / X 账号，但没有海外信用卡或不想折腾官方订阅的用户。
+- **流程要点：** 购买卡密、验证卡密、获取账号 ID、确认账号信息、等待到账。
+- **安全提醒：** 建议充值到自己的原账号，不建议购买共享账号或直接提供账号密码。
+
+## 🚀 快速充值入口
+
+**👉 [点击进入 Grok Super 充值入口，支持微信支付](https://gpt.hicxy.com/)**
+
+✅ 支持微信支付  
+✅ 无需海外信用卡  
+✅ 使用自己的 X / Grok 原账号  
+⚠️ 第三方平台非官方服务，充值前请确认账号 ID 和订单信息
 
 [![充值入口](https://img.shields.io/badge/Grok-充值入口-1d9bf0?style=for-the-badge)](https://gpt.hicxy.com)
 [![支付方式](https://img.shields.io/badge/支持-微信支付-07c160?style=for-the-badge)](https://gpt.hicxy.com)
@@ -19,6 +35,7 @@
 - [开通 Grok Super 之后适合怎么用](#开通-grok-super-之后适合怎么用)
 - [充值前先确认这几件事](#充值前先确认这几件事)
 - [Grok 充值常见问题](#grok-充值常见问题)
+- [相关教程](#相关教程)
 - [总结](#总结)
 
 ---
@@ -139,6 +156,17 @@ Grok 相关套餐名称可能会随官方调整变化。下单前看清楚页面
 ### 5. Grok 适合和 ChatGPT、Claude 一起用吗？
 
 适合。Grok 更偏实时信息和 X 相关内容，ChatGPT 更偏综合任务，Claude 更偏长文档和写作。三者的优势不完全一样。
+
+### 6. Grok Super 充值失败怎么办？
+
+先确认卡密是否验证成功、账号 ID 是否来自当前登录账号、套餐是否选择正确。如果长时间未到账，保留订单记录并联系售后处理。
+
+## 相关教程
+
+- [Grok Super 付款失败排查指南](https://github.com/Ai66Man/Grok-pay)
+- [Grok Super 国内开通新手教程](https://github.com/imi0801/grok-gudie)
+- [ChatGPT Plus / Pro 图文充值教程](https://github.com/gpt-plus-pay/chatgpt-chongzhi)
+- [Claude Pro 图文充值教程](https://github.com/gpt-plus-pay/claude-pro-chongzhi)
 
 ---
 
